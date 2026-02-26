@@ -15,6 +15,6 @@ services:
       - key: API_HASH
         value: "a6e6098b319618f10693005ee7a77d92"
       - key: WEBHOOK
-        sync: false
+        value: https://google.com
       - key: PORT
         value: 8080
